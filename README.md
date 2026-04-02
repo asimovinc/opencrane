@@ -2,13 +2,11 @@
 
 <img alt="opencrane-by-asimovinc" src="./opencrane-by-asimovinc.png" />
 
-Built by [Menlo Research](https://menlo.inc) to assemble [Asimov](https://asimov.inc). We needed something portable and easy to modify. Nothing off the shelf gave us that, so we built it ourselves.
+Built by [Menlo Research](https://menlo.inc) to assemble [Asimov](https://asimov.inc). We needed something different. Nothing off the shelf gave us that, so we built it ourselves.
 
 ---
 
 ## Specs
-
-<img alt="first-opencrane-sketch" src="./opencrane_first_sketch.jpeg" />
 
 | Parameter | Value |
 |---|---|
@@ -16,7 +14,8 @@ Built by [Menlo Research](https://menlo.inc) to assemble [Asimov](https://asimov
 | Span | 180 cm |
 | Lift capacity | 250 kg |
 | Material | 6063-T5 aluminium extrusions (5050-10 profile) |
-| Footprint | Foldable, portable |
+
+<img alt="first-opencrane-sketch" src="./opencrane_first_sketch.jpeg" />
 
 ---
 
