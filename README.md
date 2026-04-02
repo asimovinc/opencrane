@@ -2,7 +2,7 @@
 
 <img alt="opencrane-by-asimovinc" src="./opencrane-by-asimovinc.png" />
 
-Built by [Menlo Research](https://menlo.inc) to assemble [Asimov](https://asimov.inc). We needed something portable, foldable, and easy to modify. Nothing off the shelf gave us that, so we built it ourselves.
+Built by [Menlo Research](https://menlo.inc) to assemble [Asimov](https://asimov.inc). We needed something portable and easy to modify. Nothing off the shelf gave us that, so we built it ourselves.
 
 ---
 
