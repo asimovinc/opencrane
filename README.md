@@ -12,7 +12,7 @@ Built by [Menlo Research](https://menlo.inc) to assemble [Asimov](https://asimov
 |---|---|
 | Height | 200 cm |
 | Span | 180 cm |
-| Lift capacity | 250 kg |
+| Lift capacity | 125 kg |
 | Material | 6063-T5 aluminium extrusions (5050-10 profile) |
 
 <img alt="first-opencrane-sketch" src="./opencrane_first_sketch.jpeg" />
