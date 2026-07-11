@@ -24,7 +24,7 @@ Built by [Menlo Research](https://menlo.inc) to assemble [Asimov](https://asimov
 | Item | Qty |
 |---|---|
 | M8×50 Socket Head Bolt | 12 |
-| M4-4545 Rhombus Nut | 12 |
+| M8-4545 Rhombus Nut | 12 |
 | M12×60 Socket Head Bolt | 4 |
 | 5050-10 End Cap | 6 |
 | 5050-10 Profile 0.3 m (45° cuts) | 6 |
